@@ -1,0 +1,23 @@
+.jumbotron h1 {
+	font-size: 48px;
+	color: rgb(2, 0, 0);
+}
+.jumbotron h5 {
+	font-size: 20px;
+	color: black;
+}
+.jumbotron p {
+	font-size: 28px;
+	color:purple;
+}
+.jumbotron{
+	background-image: url("../images/dirt.jpg");
+}
+.img-thumbnail{
+	width: 150px;
+	height: 150px;
+}
+
+.foot{position: absolute;
+margin-left: 45%;
+margin-right: 45%}
